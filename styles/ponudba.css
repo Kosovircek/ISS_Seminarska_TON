@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+#navWrapper{
+    position: static;
+    z-index: 11;
+    width: 100%;
+}
