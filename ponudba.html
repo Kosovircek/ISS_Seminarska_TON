@@ -12,9 +12,9 @@
         <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap" rel="stylesheet"> 
 
         <link rel="stylesheet" href="./styles/ponudba.css">
-        <title>TON - prenosni glasbeni studio</title>
+        <title>TON - prodaja</title>
         <meta name="keywords" content="DAW, prenosni digitalni avdio studijo, naprava, TON">
-        <meta name="description" content="Hitra predstavitev naprave TON">
+        <meta name="description" content="Spletna ponudba TON">
         <meta name="author" content="Mitja Gracar">
 
     </head>
@@ -50,20 +50,126 @@
             </div>
         </header>
 
+        <br>
+        <br>
+        <br>
+
         <!--Vsebina spletne strani-->
         <div class="container-fluid">
 
-            <div class="row justify-content-center " id="rowObvestilo">
-                
-                <div class="col-md-4">
-                    <img src="./media/komplet.png" alt="Ikona kompleta">
+            <div class="row justify-content-center" id="rowOpozorilo">
+                <div class="col-8">
+                    <h2>Obvestilo o podaljšanem dostavnem roku</h2>
+                    <p>
+                        Zaradi velikega števila naročil in ker vse pošljke pošiljamo iz centralnega skladišča, <br>
+                        lahko pričakujete zastoje pri dostavi pošiljk.<br>
+                        <br>
+                        Hvala za razumevanje, ekipa TON.
+                    </p>
                 </div>
-                <div class="col-md-4">
-                    
-                </div>
+            </div>
 
+            <br>
+            <br>
+            <br>
+
+            <div class="row justify-content-center" id="rowKomplet">
+                
+                <div class="col-md-4" id="kompletL">
+                    <div class="divAsImg" style="background-image: url(./media/komplet.png);"></div>
+                </div>
+                <div class="col-md-4" id="kompletD">
+                    <h2>Komplet: 299€</h2>
+                    <ul>
+                        <li>Naprava TON</li>
+                        <li>Bluetooth slušalke</li>
+                        <li>Etui</li>
+                        <li>Napajalnik</li>
+                        <li>Avdio kabel</li>
+                    </ul>
+                    <br> 
+                    <button id="btnKomplet" type="button" class="btn btn-secondary btn-lg" onclick="location.href='./obrazecZaNakup.html?ime=KompletTON&cena=299€'">Nakup</button>
+                </div>
 
             </div>
+
+            <br>
+            <br>
+            <br>
+
+            <div class="row justify-content-center " id="rowTON">
+                
+                <div class="col-md-4" id="tonL">
+                    <div class="divAsImg" style="background-image: url(./media/op-1_side.jpg);"></div>
+                </div>
+                <div class="col-md-4" id="tonD">
+                    <h2>Naprava TON: 220€</h2>
+                    <p>
+                        Sama naprava TON, brez dodatkov. <br>
+                        Primerna za tiste kupce, ki že imajo USB-C polnilec in slušalke <br>
+                        Pri nakupu dobite tudi etui
+                    </p>
+                    <br>
+                    <button id="btnKomplet" type="button" class="btn btn-secondary btn-lg" onclick="location.href='./obrazecZaNakup.html?ime=TON&cena=220€'">Nakup</button>
+                </div>
+                
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+            <div class="row justify-content-center " id="rowSlusalke">
+                
+                <div class="col-md-4" id="slusalkeL">
+                    <div class="divAsImg" style="background-image: url(./media/slusalke.jpg);"></div>
+                </div>
+                <div class="col-md-4" id="slusalkeD">
+                    <h2>BL Slušalke: 45€</h2>
+                    <p>
+                        Bluetooth LE slušalke z 3000mAh baterije, ki zdrži 42 ur uporabe.<br> 
+                        Z niskim zamičnim časom so primerne za izvajanje glasbe v živo. 
+                    </p>
+                    <br>
+                    <button id="btnKomplet" type="button" class="btn btn-secondary btn-lg" onclick="location.href='./obrazecZaNakup.html?ime=Slušalke&cena=45€'">Nakup</button>
+                </div>
+                
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+            <div class="row justify-content-center " id="rowNapajalnik">
+                
+                <div class="col-md-4" id="napajalnikL">
+                    <div class="divAsImg" style="background-image: url(./media/napajalnik.jpg);"></div>
+                </div>
+                <div class="col-md-4" id="napajalnikD">
+                    <h2>Napajalnik: 20€</h2>
+                    <p>
+                        Standardni USB-C napajalnik z možnostjo hitrega poljnenja 5A.
+                    </p>
+                    <br>
+                    <button id="btnKomplet" type="button" class="btn btn-secondary btn-lg" onclick="location.href='./obrazecZaNakup.html?ime=Napajalnik&cena=20€'">Nakup</button>
+                </div>
+                
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+
+            <footer>
+
+                <div class="row justify-content-center" id="rowFooter">
+                    <div class="col-md-8">
+                        <p>Copyright, 2021/01/10, Mitja Gracar</p>
+                    </div>
+                </div>
+    
+            </footer>
 
         </div>
         

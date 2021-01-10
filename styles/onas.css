@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+#navWrapper{
+    position: static;
+    z-index: 11;
+    width: 100%;
+    user-select: none;
+}
+
+
+
+
+
+
+
+
+
+
+#rowFooter{
+    color: #333333;
+    text-align: end;
+    background-color: darkgray;
+    padding-top: 15rem;
+}
