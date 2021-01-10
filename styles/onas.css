@@ -14,7 +14,28 @@
 
 
 
+#socialLinki{
+    background-color: #4886a0;
+    color: white;
+    padding: 2rem;
+    height: 100%;
+    line-height: 2.5rem;
+    
+}
+#socialLinki span{
+    line-height: 1.5rem;
+}
+#socialLinki span:hover{
+    cursor: pointer;
+}
+#socialLinki img{
+    height: 1.5rem;
+}
 
+.col-md-2{
+    align-items: center;
+    border: solid 5px #333333;
+}
 
 
 
