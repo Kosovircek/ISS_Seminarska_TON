@@ -93,7 +93,7 @@
 .cSamplerSynth img{
     padding: 2rem;
 }
-.cSamplerSynth article{
+.cSamplerSynth .tekst{
     padding: 1rem;
 }
 
@@ -105,7 +105,7 @@
 .cSequencer img{
     padding: 2rem;
 }
-.cSequencer article{
+.cSequencer .tekst{
     padding: 1rem;
 }
 
@@ -117,7 +117,7 @@
 .cEffects img{
     padding: 2rem;
 }
-.cEffects article{
+.cEffects .tekst{
     padding: 1rem;
 }
 

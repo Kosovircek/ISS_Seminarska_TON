@@ -12,45 +12,45 @@
     user-select: none;
 }
 
-#obvNas1{
+.obvNas1{
     color: white;
     background-color: #9dad43;
     border: 0.3rem solid #9dad43;
     padding: 1.5rem;
 }
-#obvVseb1{
+.obvVseb1{
     border: 0.3rem solid #9dad43;
     padding: 1.5rem;
 }
-#obvVseb1 span{
+.obvVseb1 span{
     color: gray;
 }
 
-#obvNas2{
+.obvNas2{
     color: white;
     background-color: #ad4e43;
     border: 0.3rem solid #ad4e43;
     padding: 1.5rem;
 }
-#obvVseb2{
+.obvVseb2{
     border: 0.3rem solid #ad4e43;
     padding: 1.5rem;
 }
-#obvVseb2 span{
+.obvVseb2 span{
     color: gray;
 }
 
-#obvNas3{
+.obvNas3{
     color: white;
     background-color: #4886a0;
     border: 0.3rem solid #4886a0;
     padding: 1.5rem;
 }
-#obvVseb3{
+.obvVseb3{
     border: 0.3rem solid #4886a0;
     padding: 1.5rem;
 }
-#obvVseb3 span{
+.obvVseb3 span{
     color: gray;
 }
 
