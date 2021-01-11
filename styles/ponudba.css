@@ -86,7 +86,16 @@
 
 #rowFooter{
     color: #333333;
-    text-align: end;
     background-color: darkgray;
-    padding-top: 15rem;
+    padding-top: 7rem;
+}
+#fL{
+    text-align: left;
+    vertical-align: bottom;
+    color: #333333;
+}
+#fR{
+    text-align: right;
+    vertical-align: bottom;
+    color: #333333;
 }
