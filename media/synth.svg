@@ -13,14 +13,15 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 512 512"
-   style="enable-background:new 0 0 512 512;"
+   viewBox="0 0 572 437.793"
    xml:space="preserve"
    sodipodi:docname="synth.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="572"
+   height="437.793"><metadata
    id="metadata1043"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs1041" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -35,20 +36,24 @@
    id="namedview1039"
    showgrid="false"
    inkscape:zoom="0.83007813"
-   inkscape:cx="170.53137"
-   inkscape:cy="163.12152"
+   inkscape:cx="-39.205099"
+   inkscape:cy="126.01852"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="60"
+   fit-margin-bottom="60"
+   fit-margin-left="30"
+   fit-margin-right="30" />
 <path
    style="fill:#e15050"
-   d="m 97.1035,494.3455 0,-476.69 c 0,-9.751 7.904,-17.655 17.656,-17.655 l 282.482,0 c 9.751,0 17.655,7.904 17.655,17.655 v 476.69 c 0,9.751 -7.904,17.655 -17.655,17.655 h -282.483 c -9.751,0 -17.655,-7.904 -17.655,-17.655 z"
+   d="M 524.345,377.793 H 47.655 C 37.904,377.793 30,369.889 30,360.137 V 77.655 C 30,67.904 37.904,60 47.655,60 h 476.69 C 534.096,60 542,67.904 542,77.655 v 282.483 c 0,9.751 -7.904,17.655 -17.655,17.655 z"
    id="path930"
    inkscape:connector-curvature="0" />
 <g
    id="g936"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<path
    style="fill:#d24146"
    d="M 406.069,185.379 H 105.931 c -9.751,0 -17.655,-7.904 -17.655,-17.655 v -17.655 c 0,-9.751 7.904,-17.655 17.655,-17.655 h 300.138 c 9.751,0 17.655,7.904 17.655,17.655 v 17.655 c 0,9.751 -7.904,17.655 -17.655,17.655 z"
@@ -56,60 +61,54 @@
    inkscape:connector-curvature="0" />
 	<path
    style="fill:#d24146"
-   d="M 494.345,414.897 H 17.655 V 247.172 c 0,-14.626 11.857,-26.483 26.483,-26.483 h 423.724 c 14.626,0 26.483,11.857 26.483,26.483 v 167.725 z"
+   d="M 494.345,414.897 H 17.655 V 247.172 c 0,-14.626 11.857,-26.483 26.483,-26.483 h 423.724 c 14.626,0 26.483,11.857 26.483,26.483 z"
    id="path934"
    inkscape:connector-curvature="0" />
 </g>
 <path
    style="fill:#fff5e6"
-   d="m 114.7595,467.8625 0,-423.724 c 0,-4.875 3.953,-8.828 8.828,-8.828 l 141.241,0 c 4.875,0 8.828,3.953 8.828,8.828 l 0,423.724 c 0,4.875 -3.953,8.828 -8.828,8.828 h -141.241 c -4.876,0 -8.828,-3.953 -8.828,-8.828 z"
+   d="M 497.862,360.137 H 74.138 c -4.875,0 -8.828,-3.953 -8.828,-8.828 V 210.068 c 0,-4.875 3.953,-8.828 8.828,-8.828 h 423.724 c 4.875,0 8.828,3.953 8.828,8.828 v 141.241 c 0,4.876 -3.953,8.828 -8.828,8.828 z"
    id="path938"
    inkscape:connector-curvature="0" />
 <circle
    style="fill:#a0eb64"
-   cx="229.5175"
-   cy="-353.10349"
+   cx="259.517"
+   cy="121.79301"
    r="13.241"
-   id="circle940"
-   transform="rotate(90)" />
+   id="circle940" />
 <circle
    style="fill:#ffd558"
-   cx="176.55251"
-   cy="-353.10349"
+   cx="206.552"
+   cy="121.79301"
    r="13.241"
-   id="circle942"
-   transform="rotate(90)" />
+   id="circle942" />
 <circle
    style="fill:#ffaf4b"
-   cx="123.5865"
-   cy="-353.10349"
+   cx="153.586"
+   cy="121.79301"
    r="13.241"
-   id="circle944"
-   transform="rotate(90)" />
+   id="circle944" />
 <circle
    style="fill:#00d2b9"
-   cx="282.48349"
-   cy="-353.10349"
+   cx="312.483"
+   cy="121.79301"
    r="13.241"
-   id="circle946"
-   transform="rotate(90)" />
+   id="circle946" />
 <circle
    style="fill:#8cd2ff"
-   cx="335.44849"
-   cy="-353.10349"
+   cx="365.448"
+   cy="121.79301"
    r="13.241"
-   id="circle948"
-   transform="rotate(90)" />
+   id="circle948" />
 <circle
    style="fill:#d28ce6"
-   cx="388.41449"
-   cy="-353.10349"
+   cx="418.414"
+   cy="121.79301"
    r="13.241"
-   id="circle950"
-   transform="rotate(90)" />
+   id="circle950" />
 <g
    id="g956"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<rect
    x="114.759"
    y="326.621"
@@ -127,7 +126,7 @@
 </g>
 <g
    id="g962"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<path
    style="fill:#5b5d6e"
    d="m 128,335.448 h -8.828 c -4.875,0 -8.828,-3.953 -8.828,-8.828 v -88.276 h 26.483 v 88.276 c 0.001,4.876 -3.952,8.828 -8.827,8.828 z"
@@ -141,7 +140,7 @@
 </g>
 <g
    id="g968"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<rect
    x="220.69"
    y="326.621"
@@ -159,7 +158,7 @@
 </g>
 <g
    id="g974"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<path
    style="fill:#5b5d6e"
    d="m 233.931,335.448 h -8.828 c -4.875,0 -8.828,-3.953 -8.828,-8.828 v -88.276 h 26.483 v 88.276 c 10e-4,4.876 -3.952,8.828 -8.827,8.828 z"
@@ -173,7 +172,7 @@
 </g>
 <g
    id="g980"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<rect
    x="326.621"
    y="326.621"
@@ -191,7 +190,7 @@
 </g>
 <g
    id="g986"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<path
    style="fill:#5b5d6e"
    d="m 339.862,335.448 h -8.828 c -4.875,0 -8.828,-3.953 -8.828,-8.828 v -88.276 h 26.483 v 88.276 c 10e-4,4.876 -3.952,8.828 -8.827,8.828 z"
@@ -204,29 +203,27 @@
    inkscape:connector-curvature="0" />
 </g>
 <rect
-   x="432.55249"
-   y="-185.3795"
+   x="462.552"
+   y="289.517"
    style="fill:#f0e1c8"
    width="17.655001"
    height="70.621002"
-   id="rect988"
-   transform="rotate(90)" />
+   id="rect988" />
 <path
    style="fill:#5b5d6e"
-   d="m 176.5525,445.7935 v -8.828 c 0,-4.875 3.953,-8.828 8.828,-8.828 h 88.276 v 26.483 h -88.276 c -4.876,0.001 -8.828,-3.952 -8.828,-8.827 z"
+   d="m 475.793,298.344 h -8.828 c -4.875,0 -8.828,-3.953 -8.828,-8.828 V 201.24 h 26.483 v 88.276 c 10e-4,4.876 -3.952,8.828 -8.827,8.828 z"
    id="path990"
    inkscape:connector-curvature="0" />
 <rect
-   x="61.793499"
-   y="-185.3795"
+   x="91.792999"
+   y="289.517"
    style="fill:#f0e1c8"
    width="17.655001"
    height="70.621002"
-   id="rect992"
-   transform="rotate(90)" />
+   id="rect992" />
 <g
    id="g1000"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<path
    style="fill:#5b5d6e"
    d="m 75.034,335.448 h -8.828 c -4.875,0 -8.828,-3.953 -8.828,-8.828 v -88.276 h 26.483 v 88.276 c 10e-4,4.876 -3.951,8.828 -8.827,8.828 z"
@@ -245,7 +242,7 @@
 </g>
 <g
    id="g1006"
-   transform="rotate(90,256,256.0005)">
+   transform="translate(30,-37.104)">
 	<circle
    style="fill:#707487"
    cx="44.138"
@@ -260,48 +257,63 @@
    id="circle1004" />
 </g>
 <g
-   id="g1008">
+   id="g1008"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1010">
+   id="g1010"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1012">
+   id="g1012"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1014">
+   id="g1014"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1016">
+   id="g1016"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1018">
+   id="g1018"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1020">
+   id="g1020"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1022">
+   id="g1022"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1024">
+   id="g1024"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1026">
+   id="g1026"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1028">
+   id="g1028"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1030">
+   id="g1030"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1032">
+   id="g1032"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1034">
+   id="g1034"
+   transform="translate(30,-37.104)">
 </g>
 <g
-   id="g1036">
+   id="g1036"
+   transform="translate(30,-37.104)">
 </g>
 </svg>
